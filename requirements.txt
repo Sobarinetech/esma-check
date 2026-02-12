@@ -1,1 +1,26 @@
+# ESMA Data Explorer - Python Dependencies
+
+# Core application
 streamlit
+pandas
+plotly
+openpyxl
+
+# ESMA data packages
+esma-data-py
+
+# Data processing
+numpy
+pyarrow
+
+# Optional: For ESEF toolkit (install separately from GitHub)
+# lxml
+# arelle-release
+
+# Optional: Database connectivity
+# sqlalchemy
+# psycopg2-binary
+
+# Optional: Task scheduling
+# schedule
+# apache-airflow
